@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+server.log
+.DS_Store
+scss/
+.travis.yml
+LICENSE
+Procfile
+README.md
+package2.json
+gulpfile.js
