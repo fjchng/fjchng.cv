@@ -1,4 +1,3 @@
-
 var summary = 'Technology consultant at a multinational professional services and business consulting corporation, specialising in cloud and analytics. Quick and open to adopt new technologies; analytical and logical approach to problem-solving; clear communicator and presenter; good time management and able to prioritise heavy workloads.';
 var firstName = 'Jiacheng';
 var lastName = 'Fu';
